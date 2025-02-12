@@ -1,0 +1,2 @@
+# CUDA-practise
+Learning CUDA
